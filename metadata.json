@@ -1,0 +1,5 @@
+{
+  "name": "Bank Statement Analyzer",
+  "description": "Upload a bank statement image to extract transaction data into a clean CSV format using Gemini. Also provides a Python script for local processing.",
+  "requestFramePermissions": []
+}
